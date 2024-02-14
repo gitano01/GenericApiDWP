@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/api/centrocostos/config/CorsFilter.java=UTF-8
+encoding//src/main/java/com/api/centrocostos/config/JwtFilter.java=UTF-8
+encoding//src/main/java/com/api/centrocostos/utils/Constantes.java=UTF-8
+encoding//src/main/java/com/api/centrocostos/utils/Utilerias.java=UTF-8
